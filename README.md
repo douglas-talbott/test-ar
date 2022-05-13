@@ -1,2 +1,2 @@
 # test-ar
-test to see how augmented reality works
+Test to see how augmented reality works
